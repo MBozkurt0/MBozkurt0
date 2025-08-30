@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Bana Ulaş
-- [LinkedIn](https://www.linkedin.com/in/muhammet-bozkurt-294867381/)  
+- [LinkedIn](https://www.linkedin.com/in/bozkurtmuhammet/)  
 - [GitHub](https://github.com/MBozkurt0)  
 
 ---
